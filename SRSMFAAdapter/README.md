@@ -13,6 +13,7 @@ There isn't an actual SRS algorithm implemented in the function so it would not 
 
 The corresponding Azure Function:  
 [https://gist.github.com/ahelland/76d44ca7619b5a06e730f4488ab0e20f](https://gist.github.com/ahelland/76d44ca7619b5a06e730f4488ab0e20f)
+[https://gist.github.com/intsangity/01dbf4513f67dadda5c224bfc49cb1c6](https://gist.github.com/intsangity/01dbf4513f67dadda5c224bfc49cb1c6)
 
 The URL of the Azure Function should be pasted into the SRSMFAAdapter.json file.
 
